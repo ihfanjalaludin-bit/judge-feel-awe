@@ -10,10 +10,10 @@ import os
 
 TEXT = (
     "Below the harbour, where the light thins to green, a whale moves "
-    "through cold water without hurry. A hundred years along the same "
-    "slow road. Above, the wind comes and goes. The whale keeps no "
-    "count of days. The sea carries it, and nothing asks it to be "
-    "anywhere else."
+    "through cold water, unhurried. A hundred years on the same slow "
+    "road, older than the harbour. The wind comes and goes above. It "
+    "keeps no count of days. The sea carries it, and nothing asks it "
+    "to be anywhere else."
 )
 
 
